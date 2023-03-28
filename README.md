@@ -5,4 +5,4 @@ This repository contains assignments from the course Program Development and Tes
 * If you wish to check Selenium Home Task - move to WebUI branch
 * If you wish to check web api task - go to WebApi page
 
-Deeper explanation about every task, how to run etc. you can find in the corresponding branches
+Deeper explanation about every task, how to run etc. you can find in the corresponding branches!!!
