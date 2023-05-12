@@ -1,8 +1,14 @@
-# Anastasiya_Mazur
-This repository contains assignments from the course Program Development and Testing Technologies
+# Anastasiya Mazur
+## A branch with WebApi task code
 
-* If you wish to check task of basic C# understanding - move to C#_tasks branch
-* If you wish to check Selenium Home Task - move to WebUI branch
-* If you wish to check web api task - go to WebApi page
+1. All of the object files used in this project are located under /WebApi folder
+2. Feature files are located under Feature/WebApiFeature/Features folder
+3. Steps definitions are located under Feature/WebApiFeature/Steps
 
-Deeper explanation about every task, how to run etc. you can find in the corresponding branches
+
+### Steps
+1. Clone repository to your device: git clone https://github.com/idgafd/Anastasiya_Mazur
+2. Go to folder with forked repository: cd *way*
+3. Go to WebApi branch: git checkout WebAPI
+4. Run WebApi/WebApi.sln file 
+5. Build the solution
