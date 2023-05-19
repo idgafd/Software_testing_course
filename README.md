@@ -1,8 +1,12 @@
 # Anastasiya_Mazur
-This repository contains assignments from the course Program Development and Testing Technologies
+This is project of Selenium Homework.
+It does:
+1. LogIns on site https://opensource-demo.orangehrmlive.com/
+2. Creates new Student job
+3. Deletes created Student job
 
-* If you wish to check task of basic C# understanding - move to C#_tasks branch
-* If you wish to check Selenium Home Task - move to WebUI branch
-* If you wish to check web api task - go to WebApi page
-
-Deeper explanation about every task, how to run etc. you can find in the corresponding branches
+### How to run
+1. Clone repository to your device
+2. Go to WebUI branch
+3. Run Mazur_WebUI.sln file 
+4. Build the solution
